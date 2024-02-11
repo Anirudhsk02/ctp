@@ -4,9 +4,9 @@ Crypto Trading Platform, a powerful and fully functional object-oriented C++ app
 One of the key highlights of this platform is the implementation of an order book and a sophisticated matching algorithm. The order book efficiently organizes all the buy (bids) and sell (asks) orders at different price levels. The matching algorithm ensures that buy orders are matched with appropriate sell orders, facilitating seamless transactions and timely order resolution.
 
 # Features
-Print market stats.
-Make an ask or a bid.
-Check your wallet balance.
+* Print market stats.
+* Make an ask or a bid.
+* Check your wallet balance.
 
 # Key Functionalities
 The platform offers the following essential functionalities:
@@ -25,15 +25,15 @@ Usage
 
 Clone the repository.
 
-''' git clone https://github.com/ajiitkgp/Crypto-Trading-Platform.git
+'''git clone https://github.com/ajiitkgp/Crypto-Trading-Platform.git
 
 Compile the code using the following command:
 
-''' g++ main.cpp -o trading_platform.
+'''g++ main.cpp -o trading_platform.
 
 Run the trading platform using the following command:
 
-''' ./trading_platform.
+'''./trading_platform.
 
 Successful execution will show this:
 
