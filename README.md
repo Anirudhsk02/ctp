@@ -43,4 +43,5 @@ The platform offers the following essential functionalities:
 4: Make a bid<br>
 5: Print wallet<br>
 6: Continue<br>
+
 ===========
