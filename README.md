@@ -25,15 +25,15 @@ Usage
 
 Clone the repository.
 
-[git clone https://github.com/ajiitkgp/Crypto-Trading-Platform.git](#installation)
+''' git clone https://github.com/ajiitkgp/Crypto-Trading-Platform.git
 
 Compile the code using the following command:
 
-[g++ main.cpp -o trading_platform](#start)
+''' g++ main.cpp -o trading_platform.
 
 Run the trading platform using the following command:
 
-[./trading_platform](#stop)
+''' ./trading_platform.
 
 Successful execution will show this:
 
