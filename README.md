@@ -22,17 +22,27 @@ The platform offers the following essential functionalities:
 * **CSV Order Import:** The application reads order data from a CSV file and generates an order book from it. This feature enables users to simulate and analyze historical trading data efficiently.
 
 Usage
+
 Clone the repository.
-git clone https://github.com/ajiitkgp/Crypto-Trading-Platform.git
+
+git clone https://github.com/ajiitkgp/Crypto-Trading-Platform.git(#installation)
+
 Compile the code using the following command:
-g++ main.cpp -o trading_platform
+
+g++ main.cpp -o trading_platform(#start)
+
 Run the trading platform using the following command:
-./trading_platform
+
+./trading_platform(#stop)
+
 Successful execution will show this:
+
 1: Print help
 2: Print exchange stats
 3: Make an offer
 4: Make a bid
 5: Print wallet
 6: Continue
+
 ===========
+
