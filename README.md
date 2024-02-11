@@ -1,14 +1,14 @@
-## Crypto Currency Trading Platform
+# Crypto Currency Trading Platform
 Crypto Trading Platform, a powerful and fully functional object-oriented C++ application that enables you to trade various cryptocurrencies such as Bitcoin (BTC) and Ethereum (ETH) efficiently. The project implements several advanced C++ concepts, including static functions, function overloading, and more, to provide a robust and seamless trading experience.
 
 One of the key highlights of this platform is the implementation of an order book and a sophisticated matching algorithm. The order book efficiently organizes all the buy (bids) and sell (asks) orders at different price levels. The matching algorithm ensures that buy orders are matched with appropriate sell orders, facilitating seamless transactions and timely order resolution.
 
-# Features
+## Features
 * Print market stats.
 * Make an ask or a bid.
 * Check your wallet balance.
 
-# Key Functionalities
+## Key Functionalities
 The platform offers the following essential functionalities:
 
 * **Print Market Stats:** Users can access and view market statistics. Although static data is currently used for demonstration purposes, the platform can be extended to fetch real-time market data from various sources.
@@ -21,7 +21,7 @@ The platform offers the following essential functionalities:
 
 * **CSV Order Import:** The application reads order data from a CSV file and generates an order book from it. This feature enables users to simulate and analyze historical trading data efficiently.
 
-# Usage
+## Usage
 
 * Clone the repository.
 
@@ -43,6 +43,4 @@ The platform offers the following essential functionalities:
 4: Make a bid<br>
 5: Print wallet<br>
 6: Continue<br>
-
 ===========
-
